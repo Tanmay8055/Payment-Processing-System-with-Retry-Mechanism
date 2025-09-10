@@ -3,7 +3,7 @@ package src;
 import java.util.HashMap;
 import java.util.Map;
 
-public class User {
+public class .User {
     private String userId;
     private String name;
     private Map<String, Double> balances;  // Map of currency -> balance
